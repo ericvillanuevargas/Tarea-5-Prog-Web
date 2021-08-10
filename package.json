@@ -1,0 +1,26 @@
+{
+  "name": "Tarea5PW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "0.0.5",
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
